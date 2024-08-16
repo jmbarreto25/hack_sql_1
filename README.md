@@ -9,5 +9,5 @@
 
 ## Acerca del proyecto
 
-Este proyecto pertenece al septimo hack hack_javascript_1
+Este proyecto pertenece al octavo hack hack_sql_1
 <p align=right>(<a href=https://github.com/SocialOplesk/hack_sql_1>Social Oplesk Hack SQL 1</a>)</p>
